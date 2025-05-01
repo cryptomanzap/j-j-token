@@ -1,0 +1,21 @@
+{
+  "name": "JACK&JILL Company",
+  "logoURI": "https://raw.githubusercontent.com/cryptomanzap/j-j-token/main/jj_logo.png",
+  "keywords": ["j&j", "jack&jill"],
+  "timestamp": "2024-05-01T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x51851614A2C6fAf9835a4Ca2688BE44C872A4083",
+      "name": "JACK&JILL Company",
+      "symbol": "J&J",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cryptomanzap/j-j-token/main/jj_logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+} 
